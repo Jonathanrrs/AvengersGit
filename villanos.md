@@ -1,4 +1,5 @@
 # Villanos
 
-# Dr. Doom
-# Thanos
+* Dr. Doom
+* Thanos
+* Venom
